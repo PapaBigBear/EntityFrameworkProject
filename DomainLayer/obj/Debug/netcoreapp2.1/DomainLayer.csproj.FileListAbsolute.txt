@@ -1,0 +1,8 @@
+C:\Users\Bruker\Desktop\Queries\DomainLayer\bin\Debug\netcoreapp2.1\DomainLayer.deps.json
+C:\Users\Bruker\Desktop\Queries\DomainLayer\bin\Debug\netcoreapp2.1\DomainLayer.dll
+C:\Users\Bruker\Desktop\Queries\DomainLayer\bin\Debug\netcoreapp2.1\DomainLayer.pdb
+C:\Users\Bruker\Desktop\Queries\DomainLayer\obj\Debug\netcoreapp2.1\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\Desktop\Queries\DomainLayer\obj\Debug\netcoreapp2.1\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Bruker\Desktop\Queries\DomainLayer\obj\Debug\netcoreapp2.1\DomainLayer.AssemblyInfo.cs
+C:\Users\Bruker\Desktop\Queries\DomainLayer\obj\Debug\netcoreapp2.1\DomainLayer.dll
+C:\Users\Bruker\Desktop\Queries\DomainLayer\obj\Debug\netcoreapp2.1\DomainLayer.pdb

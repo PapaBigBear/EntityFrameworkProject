@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>BusinessLayer</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CMDDto\DtoEntities.csproj" />
+    <ProjectReference Include="..\DataValidation\DataValidation.csproj" />
+    <ProjectReference Include="..\RepositoryLayer\DataAccessLayer.csproj" />
+  </ItemGroup>
+
+</Project>

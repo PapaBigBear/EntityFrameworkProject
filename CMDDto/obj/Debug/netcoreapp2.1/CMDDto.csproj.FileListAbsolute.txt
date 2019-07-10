@@ -1,0 +1,9 @@
+C:\Users\Bruker\Desktop\Queries\CMDDto\bin\Debug\netcoreapp2.1\CMDDto.deps.json
+C:\Users\Bruker\Desktop\Queries\CMDDto\bin\Debug\netcoreapp2.1\CMDDto.dll
+C:\Users\Bruker\Desktop\Queries\CMDDto\bin\Debug\netcoreapp2.1\CMDDto.pdb
+C:\Users\Bruker\Desktop\Queries\CMDDto\obj\Debug\netcoreapp2.1\CMDDto.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\Desktop\Queries\CMDDto\obj\Debug\netcoreapp2.1\CMDDto.AssemblyInfoInputs.cache
+C:\Users\Bruker\Desktop\Queries\CMDDto\obj\Debug\netcoreapp2.1\CMDDto.AssemblyInfo.cs
+C:\Users\Bruker\Desktop\Queries\CMDDto\obj\Debug\netcoreapp2.1\CMDDto.dll
+C:\Users\Bruker\Desktop\Queries\CMDDto\obj\Debug\netcoreapp2.1\CMDDto.pdb
+C:\Users\Bruker\Desktop\Queries\CMDDto\obj\Debug\netcoreapp2.1\CMDDto.csprojAssemblyReference.cache

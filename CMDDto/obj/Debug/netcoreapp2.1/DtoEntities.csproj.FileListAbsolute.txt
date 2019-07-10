@@ -1,0 +1,8 @@
+C:\Users\Bruker\Desktop\Queries\CMDDto\bin\Debug\netcoreapp2.1\DtoEntities.deps.json
+C:\Users\Bruker\Desktop\Queries\CMDDto\bin\Debug\netcoreapp2.1\DtoEntities.dll
+C:\Users\Bruker\Desktop\Queries\CMDDto\bin\Debug\netcoreapp2.1\DtoEntities.pdb
+C:\Users\Bruker\Desktop\Queries\CMDDto\obj\Debug\netcoreapp2.1\DtoEntities.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\Desktop\Queries\CMDDto\obj\Debug\netcoreapp2.1\DtoEntities.AssemblyInfoInputs.cache
+C:\Users\Bruker\Desktop\Queries\CMDDto\obj\Debug\netcoreapp2.1\DtoEntities.AssemblyInfo.cs
+C:\Users\Bruker\Desktop\Queries\CMDDto\obj\Debug\netcoreapp2.1\DtoEntities.dll
+C:\Users\Bruker\Desktop\Queries\CMDDto\obj\Debug\netcoreapp2.1\DtoEntities.pdb
